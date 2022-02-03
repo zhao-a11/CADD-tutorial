@@ -1,3 +1,4 @@
 /docs/.vscode
 /docs/_build
 /docs/generated
+.vscode/settings.json
